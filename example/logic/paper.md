@@ -11,19 +11,22 @@ authors:
     affiliation: 1
   - name: Carolina González-Cavazos
     affiliation: 2
-  - name: Seyed
+  - name: Seyed Amir Hosseini Beghaeiraveri
+    orcid: 0000-0002-9123-5686
     affiliation: 2
-  - name: Ammar
-    affiliation: 2
+  - name: Ammar Ammar
+    orcid: 0000-0002-8399-8990
+    affiliation: 4
   - name: Andra Waagmeester
     orcid: 0000-0002-8021-9162
-    affiliation: 3
-  - name: Sabah
-    affiliation: 4
-  - name: Egon
     affiliation: 5
+  - name: Sabah Ul-Hasan
+    affiliation: 2
+  - name: Egon Willighagen
+    orcid: 0000-0001-7542-0286
+    affiliation: 4
     orcid: 0000-0002-3583-7340
-  - name: Nils
+  - name: Nils Hoffmann
     affiliation: 6
 affiliations:
   - name: WESO research group, University of Oviedo, Spain
@@ -36,20 +39,20 @@ affiliations:
     index: 4
   - name: Micelio/Gene Wiki, Belgium
     index: 5
-  - name: University of Alabama at Birmingham, USA
+  - name: Forschungszentrum Juelich, Germany
     index: 6
 date: 11 November 2022
 cito-bibliography: paper.bib
-event: Fukuoka2019
+event: BH22EU
 biohackathon_name: "NBDC/DBCLS BioHackathon"
 biohackathon_url:   "https://biohackathon-europe.org/"
 biohackathon_location: "Paris, France, 2022"
 group: Enhancement and Reusage of Biomedical Knowledge Graph Subsets
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
+git_url: https://github.com/kg-subsetting/bhxiv-gen-pdf/
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
+authors_short: Jose E. Labra \emph{et al.}
 ---
 <!--
 
