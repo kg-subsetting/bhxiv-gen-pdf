@@ -4,55 +4,51 @@ title_short: 'Logic Programming for the Biomedical Sciences'
 tags:
   - logic programming
 authors:
-  - name: Jose Emilio Labra Gayo
-    orcid: 0000-0001-8907-5348
+  - name: Chris Mungall
+    orcid: 0000-0002-8021-9162
     affiliation: 1
-  - name: Andra Waagmeester
-    affiliation: 6
-  - name: Sabah Ul-Hasan
+  - name: Hirokazu Chiba
     affiliation: 2
- - name: Seyed Amir Hosseini Beghaeiraveri
-    orcid: 0000-0002-9123-5686
+  - name: Shuichi Kawashima
+    affiliation: 2
+  - name: Yasunori Yamamoto
+    affiliation: 2
+  - name: Pjotr Prins
+    orcid: 0000-0002-8021-9162
     affiliation: 3
-  - name: Carolina González-Cavazos
-    affiliation: 2
-  - name: Eric Prud'hommeaux
-    orcid: 0000-0003-1775-9921
+  - name: Nada Amin
     affiliation: 4
-  - name: Dan Brickley
+  - name: Deepak Unni
     affiliation: 5
-  - name: Ammar Ammar
-    affiliation: 2
-    orcid: 0000-0002-8399-8990
-  - name: Egon Willighagen
-    affiliation: 2
-    orcid: 0000-0001-7542-0286
-  - name: Nils Hoffmann
-    affiliation: 7
+    orcid: 0000-0002-3583-7340
+  - name: <nobr>William&nbsp;E.&nbsp;Byrd</nobr>
+    affiliation: 6
 affiliations:
-  - name: WESO research group, University of Oviedo, Spain
+  - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
     index: 1
-  - name: Gene Wiki Project, Scripps Research Institute, USA
+  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
     index: 2
-  - name: Heriot-Watt University, UK
+  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
     index: 3
-  - name: Janeiro Digital, W3C/MIT, USA
+  - name: Harvard University, USA
     index: 4
-  - name: Maastricht University, The Netherlands
-    index: 2
-  - name: Google, London, UK
-    index: 3
-  - name: Micelio/Gene Wiki, Belgium
+  - name: Berkeley Lab, USA
+    index: 5
+  - name: University of Alabama at Birmingham, USA
     index: 6
-  - name: Forschungszentrum Juelich, Germany
-    index: 7
-date: 11 November 2022
-bibliography: paper.bib
-event: BH22EU
-group: Enhancement and Reusage of Biomedical Knowledge Graph Subsets
-authors_short: Jose E. Labra \emph{et al.}
+date: 3 March 2020
+cito-bibliography: paper.bib
+event: Fukuoka2019
+biohackathon_name: "NBDC/DBCLS BioHackathon"
+biohackathon_url:   "http://2019.biohackathon.org/"
+biohackathon_location: "Fukuoka, Japan, 2019"
+group: Logic programming group
+# URL to project git repo --- should contain the actual paper.md:
+git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
+# This is the short authors description that is used at the
+# bottom of the generated paper (typically the first two authors):
+authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
 ---
-
 <!--
 
 The paper.md, bibtex and figure file can be found in this repo:
