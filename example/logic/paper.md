@@ -3,6 +3,8 @@ title: 'Enhancement and Reusage of Biomedical Knowledge Graph Subsets'
 title_short: 'Enhancement and reuse of Knowledge Grpahs'
 tags:
   - Wikidata
+  - Shape Expressions
+  - Knowledge graphs
 authors:
   - name: Jose Emilio Labra Gayo
     orcid: 0000-0002-8021-9162
@@ -24,25 +26,25 @@ authors:
   - name: Nils
     affiliation: 6
 affiliations:
-  - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+  - name: WESO research group, University of Oviedo, Spain
     index: 1
-  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
+  - name: Gene Wiki Project, Scripps Research Institute, USA
     index: 2
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: Heriot-Watt University, UK
     index: 3
-  - name: Harvard University, USA
+  - name: Maastricht University, The Netherlands
     index: 4
-  - name: Berkeley Lab, USA
+  - name: Micelio/Gene Wiki, Belgium
     index: 5
   - name: University of Alabama at Birmingham, USA
     index: 6
-date: 3 March 2020
+date: 11 November 2022
 cito-bibliography: paper.bib
 event: Fukuoka2019
 biohackathon_name: "NBDC/DBCLS BioHackathon"
-biohackathon_url:   "http://2019.biohackathon.org/"
-biohackathon_location: "Fukuoka, Japan, 2019"
-group: Logic programming group
+biohackathon_url:   "https://biohackathon-europe.org/"
+biohackathon_location: "Paris, France, 2022"
+group: Enhancement and Reusage of Biomedical Knowledge Graph Subsets
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
 # This is the short authors description that is used at the
