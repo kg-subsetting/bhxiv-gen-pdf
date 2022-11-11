@@ -168,8 +168,9 @@ The query can [be run online](https://bit.ly/3A5L3o1) and some results:
 ```
 
 ## Conclusions
-
-- To Be Done
+- WDSub proved to be able to extract subsets from daily wikidata dumps in an acceptable timeframe (9-12 hours)
+- By defining subset profiles that consists of multiple shapes, it is possible to extract high recall subsets from Wikidata. Within Wikidata, with its more then 10k properties, concepts are described using many property sets and graph patterns. By collecting all the possible variations as shapes in a single Shape Expressions file, it is possible to extract high recall subsets from wikidata. 
+- Building on the work done in previous hackathon (Both biohackathon and SWAT4HCLS), we now have several subset mechanisms to generate subsets from Wikidata. 
 
 ## Future work
 - Wikidata subsetting as a service: 
