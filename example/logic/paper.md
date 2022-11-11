@@ -1,6 +1,6 @@
 ---
-title: 'Enhancement and Reusage of Biomedical Knowledge Graph Subsets'
-title_short: 'Enhancement and reuse of Knowledge Grpahs'
+title: 'BioHackrXiv template this is an example of a (too) long title mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla c wjfc wjknwjek nwjkwen jk'
+title_short: 'Logic Programming for the Biomedical Sciences'
 tags:
   - logic programming
 authors:
