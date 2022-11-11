@@ -8,7 +8,7 @@ authors:
     orcid: 0000-0001-8907-5348
     affiliation: 1
   - name: Andra Waagmeester
-    affiliation: 7
+    affiliation: 6
   - name: Sabah Ul-Hasan
     affiliation: 2
  - name: Seyed Amir Hosseini Beghaeiraveri
@@ -28,7 +28,7 @@ authors:
     affiliation: 2
     orcid: 0000-0001-7542-0286
   - name: Nils Hoffmann
-    affiliation: 9
+    affiliation: 7
 affiliations:
   - name: WESO research group, University of Oviedo, Spain
     index: 1
@@ -43,9 +43,9 @@ affiliations:
   - name: Google, London, UK
     index: 3
   - name: Micelio/Gene Wiki, Belgium
-    index: 7
+    index: 6
   - name: Forschungszentrum Juelich, Germany
-    index: 9 
+    index: 7
 date: 11 November 2022
 bibliography: paper.bib
 event: BH22EU
