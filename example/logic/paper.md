@@ -1,27 +1,27 @@
 ---
-title: 'BioHackrXiv template this is an example of a (too) long title mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla c wjfc wjknwjek nwjkwen jk'
-title_short: 'Logic Programming for the Biomedical Sciences'
+title: 'Enhancement and Reusage of Biomedical Knowledge Graph Subsets'
+title_short: 'Enhancement and reuse of Knowledge Grpahs'
 tags:
-  - logic programming
+  - Wikidata
 authors:
-  - name: Chris Mungall
+  - name: Jose Emilio Labra Gayo
     orcid: 0000-0002-8021-9162
     affiliation: 1
-  - name: Hirokazu Chiba
+  - name: Carolina González-Cavazos
     affiliation: 2
-  - name: Shuichi Kawashima
+  - name: Seyed
     affiliation: 2
-  - name: Yasunori Yamamoto
+  - name: Ammar
     affiliation: 2
-  - name: Pjotr Prins
+  - name: Andra Waagmeester
     orcid: 0000-0002-8021-9162
     affiliation: 3
-  - name: Nada Amin
+  - name: Sabah
     affiliation: 4
-  - name: Deepak Unni
+  - name: Egon
     affiliation: 5
     orcid: 0000-0002-3583-7340
-  - name: <nobr>William&nbsp;E.&nbsp;Byrd</nobr>
+  - name: Nils
     affiliation: 6
 affiliations:
   - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
