@@ -2,14 +2,13 @@
 title: 'Enhancement and Reusage of Biomedical Knowledge Graph Subsets'
 title_short: 'Enhancement and reuse of Knowledge Grpahs'
 tags:
-  - Wikidata
-  - ShEx
-  - RDF
-  - Knowledge graphs
+  - logic programming
 authors:
   - name: Jose Emilio Labra Gayo
     orcid: 0000-0001-8907-5348
     affiliation: 1
+  - name: Andra Waagmeester
+    affiliation: 7
   - name: Sabah Ul-Hasan
     affiliation: 2
  - name: Seyed Amir Hosseini Beghaeiraveri
@@ -22,22 +21,12 @@ authors:
     affiliation: 4
   - name: Dan Brickley
     affiliation: 5
-
-
-
   - name: Ammar Ammar
     affiliation: 2
     orcid: 0000-0002-8399-8990
   - name: Egon Willighagen
     affiliation: 2
     orcid: 0000-0001-7542-0286
-
-
- 
-
-
-  - name: Andra Waagmeester
-    affiliation: 7
   - name: Nils Hoffmann
     affiliation: 9
     
