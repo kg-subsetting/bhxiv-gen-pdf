@@ -1,55 +1,57 @@
 ---
-title: 'BioHackrXiv template this is an example of a (too) long title mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla c wjfc wjknwjek nwjkwen jk'
-title_short: 'Logic Programming for the Biomedical Sciences'
+title: 'Enhancement and Reusage of Biomedical Knowledge Graph Subsets'
+title_short: 'Enhancement and reuse of Knowledge Grpahs'
 tags:
   - logic programming
 authors:
-  - name: Chris Mungall
-    orcid: 0000-0002-8021-9162
+  - name: Jose Emilio Labra Gayo
+    orcid: 0000-0001-8907-5348
     affiliation: 1
-  - name: Hirokazu Chiba
+  - name: Andra Waagmeester
+    affiliation: 7
+  - name: Sabah Ul-Hasan
     affiliation: 2
-  - name: Shuichi Kawashima
-    affiliation: 2
-  - name: Yasunori Yamamoto
-    affiliation: 2
-  - name: Pjotr Prins
-    orcid: 0000-0002-8021-9162
+ - name: Seyed Amir Hosseini Beghaeiraveri
+    orcid: 0000-0002-9123-5686
     affiliation: 3
-  - name: Nada Amin
+  - name: Carolina González-Cavazos
+    affiliation: 2
+  - name: Eric Prud'hommeaux
+    orcid: 0000-0003-1775-9921
     affiliation: 4
-  - name: Deepak Unni
+  - name: Dan Brickley
     affiliation: 5
-    orcid: 0000-0002-3583-7340
-  - name: <nobr>William&nbsp;E.&nbsp;Byrd</nobr>
-    affiliation: 6
+  - name: Ammar Ammar
+    affiliation: 2
+    orcid: 0000-0002-8399-8990
+  - name: Egon Willighagen
+    affiliation: 2
+    orcid: 0000-0001-7542-0286
+  - name: Nils Hoffmann
+    affiliation: 9
 affiliations:
-  - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+  - name: WESO research group, University of Oviedo, Spain
     index: 1
-  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
+  - name: Gene Wiki Project, Scripps Research Institute, USA
     index: 2
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: Heriot-Watt University, UK
     index: 3
-  - name: Harvard University, USA
+  - name: Janeiro Digital, W3C/MIT, USA
     index: 4
-  - name: Berkeley Lab, USA
-    index: 5
-  - name: University of Alabama at Birmingham, USA
-    index: 6
-date: 3 March 2020
-cito-bibliography: paper.bib
-event: Fukuoka2019
-biohackathon_name: "NBDC/DBCLS BioHackathon"
-biohackathon_url:   "http://2019.biohackathon.org/"
-biohackathon_location: "Fukuoka, Japan, 2019"
-group: Logic programming group
-# URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
-# This is the short authors description that is used at the
-# bottom of the generated paper (typically the first two authors):
-authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
+  - name: Maastricht University, The Netherlands
+    index: 2
+  - name: Google, London, UK
+    index: 3
+  - name: Micelio/Gene Wiki, Belgium
+    index: 7
+  - name: Forschungszentrum Juelich, Germany
+    index: 9 
+date: 11 November 2022
+bibliography: paper.bib
+event: BH22EU
+group: Enhancement and Reusage of Biomedical Knowledge Graph Subsets
+authors_short: Jose E. Labra \emph{et al.}
 ---
-
 
 <!--
 
@@ -63,9 +65,6 @@ pasting above link (or yours) in
   http://biohackrxiv.genenetwork.org/
 
 -->
-
-# Enhancement and Reusage of Biomedical Knowledge Graph Subsets
-
 ## Abstract 
 Knowledge Graphs (KGs) such as Wikidata act as a hub of information from multiple domains and disciplines, and is crowdsourced by multiple stakeholders. The vast amount of available information makes it difficult for researchers to manage the entire KG, which is also continually being edited. It is necessary to develop tools that extract subsets for domains of interest. These subsets will help researchers to reduce costs and time, making data of interest more accessible. In the last two BioHackathons (BH20, BH21), we have created prototypes to extract subsets easily applicable to Wikidata, as well as to define a map of the different approaches used to tackle this problem. Building on those outcomes, we aim to enhance subsetting in both definitions using Entity schemas based on Shape Expressions (ShEx) and extraction algorithms, with a special focus on the biomedical domain. Our first aim is to develop complex subsetting patterns based on qualifiers and references for enhancing credibility of datasets. Our second aim is to establish a faster subsetting extraction platform applying new algorithms based on Apache Spark and new tools like a document-oriented DBMS platform.
 
